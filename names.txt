@@ -15,7 +15,7 @@
 | 12 | Bassam Tarek Ahmed Ismail Khalifa             |      |
 | 13 | Basma Ayman Mohamed Mohamed Emara             |      |
 | 14 | Bahie Eldeen Sameer Bahie Eldeen Shehab       |      |
-| 15 | Hassan Abdelmoety Hassan Abdelmoety           |      |
+| 15 | Hassan Abdelmoety Hassan Abdelmoety           | Yes  |
 | 16 | Hassan Mohamed Hassan Ahmad Elkhatib          |      |
 | 17 | Hanan Ahmad Elsayed Abdullah Othman           | Yes  |
 | 18 | Khaled Ahmad Zaky Elesh                       |      |
